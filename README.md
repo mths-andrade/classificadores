@@ -7,6 +7,7 @@ O objetivo será obter um bom score de resultado de classificação, mas não ap
 Usamos tabelas de dados em um repositório do GitHub:
 
 [https://raw.githubusercontent.com/alura-cursos/combina-classificadores/main/dados/train.csv]
+
 [https://raw.githubusercontent.com/alura-cursos/combina-classificadores/main/dados/test.csv]
 
 Temos uma série de informações sobre as pessoas passageiras, algumas informações categóricas e outras informações numéricas contínuas. Por exemplo, o gênero das pessoas, o tipo de consumidor e se a pessoa pegou o voo em uma classe específica.
